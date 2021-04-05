@@ -1,0 +1,955 @@
+- name: Power Charm
+  key: power_trinket
+  id: 351
+
+- name: Attraction Charm
+  key: attraction_trinket
+  id: 399
+
+- name: Luck Charm
+  key: luck_trinket
+  id: 400
+
+- name: Empowered Anchor Charm
+  key: anchor_trinket
+  id: 423
+
+- name: Dragonbane Charm
+  key: dragonbane_trinket
+  id: 424
+
+- name: Extreme Luck Charm
+  key: extreme_luck_trinket
+  id: 425
+
+- name: Forgotten Charm
+  key: forgotten_trinket
+  id: 426
+
+- name: Freshness Charm
+  key: freshness_trinket
+  id: 427
+
+- name: Scientist's Charm
+  key: lab_trinket
+  id: 428
+
+- name: Super Luck Charm
+  key: super_luck_trinket
+  id: 429
+
+- name: Ultimate Luck Charm
+  key: ultimate_luck_trinket
+  id: 473
+
+- name: First Ever Charm
+  key: first_ever_trinket
+  id: 484
+
+- name: Antiskele Charm
+  key: anti_skele_trinket
+  id: 495
+
+- name: Prospector's Charm
+  key: mining_trinket
+  id: 496
+
+- name: Rotten Charm
+  key: staling_trinket
+  id: 497
+
+- name: Super Rotten Charm
+  key: super_staling_trinket
+  id: 498
+
+- name: Lucky Rabbit Charm
+  key: lucky_rabbit_trinket
+  id: 500
+
+- name: Valentine Charm
+  key: valentine_trinket
+  id: 501
+
+- name: Nanny Charm
+  key: nanny_trinket
+  id: 514
+
+- name: Warpath Archer Charm
+  key: flame_march_archer_trinket
+  id: 534
+
+- name: Warpath Cavalry Charm
+  key: flame_march_cavalry_trinket
+  id: 535
+
+- name: Warpath Commander's Charm
+  key: flame_march_general_trinket
+  id: 536
+
+- name: Warpath Mage Charm
+  key: flame_march_mage_trinket
+  id: 537
+
+- name: Warpath Scout Charm
+  key: flame_march_scout_trinket
+  id: 538
+
+- name: Warpath Warrior Charm
+  key: flame_march_warrior_trinket
+  id: 539
+
+- name: Super Warpath Archer Charm
+  key: super_flame_march_archer_trinket
+  id: 540
+
+- name: Super Warpath Cavalry Charm
+  key: super_flame_march_cavalry_trinket
+  id: 541
+
+- name: Super Warpath Mage Charm
+  key: super_flame_march_mage_trinket
+  id: 542
+
+- name: Super Warpath Scout Charm
+  key: super_flame_march_scout_trinket
+  id: 543
+
+- name: Super Warpath Warrior Charm
+  key: super_flame_march_warrior_trinket
+  id: 544
+
+- name: Ultimate Power Charm
+  key: ultimate_power_trinket
+  id: 545
+
+- name: Dark Chocolate Charm
+  key: dark_chocolate_trinket
+  id: 587
+
+- name: Artisan Charm
+  key: artisan_trinket
+  id: 611
+
+- name: Flamebane Charm
+  key: flamebane_trinket
+  id: 612
+
+- name: Lucky Power Charm
+  key: luck_power_trinket
+  id: 613
+
+- name: Monger Charm
+  key: monger_trinket
+  id: 614
+
+- name: Super Warpath Commander's Charm
+  key: super_flame_march_general_trinket
+  id: 615
+
+- name: Super Power Charm
+  key: super_power_trinket
+  id: 616
+
+- name: Derr Power Charm
+  key: derr_power_trinket
+  id: 626
+
+- name: Elub Power Charm
+  key: elub_power_trinket
+  id: 627
+
+- name: Nerg Power Charm
+  key: nerg_power_trinket
+  id: 628
+
+- name: Amplifier Charm
+  key: amplifier_trinket
+  id: 647
+
+- name: Wealth Charm
+  key: gold_bonus_trinket
+  id: 648
+
+- name: Rook Crumble Charm
+  key: rook_crumble_trinket
+  id: 649
+
+- name: Spellbook Charm
+  key: spellbook_trinket
+  id: 650
+
+- name: Scholar Charm
+  key: library_boss_trinket
+  id: 677
+
+- name: Uncharged Scholar Charm
+  key: library_boss_uncharged_trinket
+  id: 678
+
+- name: Mining Charm
+  key: drilling_trinket
+  id: 682
+
+- name: Cackle Charm
+  key: cackle_trinket
+  id: 699
+
+- name: Dreaded Charm
+  key: dreaded_trinket
+  id: 700
+
+- name: Spooky Charm
+  key: spooky_trinket
+  id: 701
+
+- name: Champion Charm
+  key: champion_trinket
+  id: 754
+
+- name: Winter Charm
+  key: festive_trinket
+  id: 755
+
+- name: Winter Screw Charm
+  key: winter_screw_trinket
+  id: 760
+
+- name: Winter Spring Charm
+  key: winter_spring_trinket
+  id: 761
+
+- name: Winter Wood Charm
+  key: winter_wood_trinket
+  id: 762
+
+- name: Firecracker Charm
+  key: firecracker_trinket
+  id: 767
+
+- name: Dragonbreath Charm
+  key: cny_dragon_breath_trinket
+  id: 792
+
+- name: Nitropop Charm
+  key: cny_nitropop_trinket
+  id: 793
+
+- name: Chrome Charm
+  key: chrome_trinket
+  id: 803
+
+- name: Tarnished Charm
+  key: tarnished_trinket
+  id: 804
+
+- name: Party Charm
+  key: party_trinket
+  id: 823
+
+- name: Eggstra Charm
+  key: eggstra_trinket
+  id: 851
+
+- name: Softserve Charm
+  key: softserve_trinket
+  id: 875
+
+- name: Sticky Charm
+  key: sticky_trinket
+  id: 876
+
+- name: Wax Charm
+  key: wax_trinket
+  id: 877
+
+- name: Athlete Charm
+  key: athlete_trinket
+  id: 908
+
+- name: Mobile Charm
+  key: mobile_trinket
+  id: 909
+
+- name: Ancient Charm
+  key: ancient_trinket
+  id: 928
+
+- name: Bravery Charm
+  key: bravery_trinket
+  id: 1011
+
+- name: Clarity Charm
+  key: clarity_trinket
+  id: 1012
+
+- name: Growth Charm
+  key: growth_trinket
+  id: 1013
+
+- name: Grub Salt Charm
+  key: grub_salt_trinket
+  id: 1014
+
+- name: Grub Scent Charm
+  key: grub_scent_trinket
+  id: 1015
+
+- name: Grubling Chow Charm
+  key: grubling_chow_trinket
+  id: 1016
+
+- name: Red Sponge Charm
+  key: red_sponge_trinket
+  id: 1017
+
+- name: Searcher Charm
+  key: searcher_trinket
+  id: 1018
+
+- name: Shine Charm
+  key: shine_trinket
+  id: 1019
+
+- name: Sponge Charm
+  key: sponge_trinket
+  id: 1020
+
+- name: Wild Growth Charm
+  key: wild_growth_trinket
+  id: 1021
+
+- name: Yellow Sponge Charm
+  key: yellow_sponge_trinket
+  id: 1022
+
+- name: Shattering Charm
+  key: shattering_trinket
+  id: 1074
+
+- name: Ultimate Charm
+  key: ultimate_trinket
+  id: 1075
+
+- name: Snakebite Charm
+  key: snakebite_trinket
+  id: 1101
+
+- name: Blue Double Sponge Charm
+  key: double_sponge_trinket
+  id: 1130
+
+- name: Grubling Bonanza Charm
+  key: grubling_bonanza_trinket
+  id: 1131
+
+- name: Red Double Sponge Charm
+  key: red_double_sponge_trinket
+  id: 1132
+
+- name: Safeguard Charm
+  key: safeguard_trinket
+  id: 1133
+
+- name: Super Salt Charm
+  key: super_salt_trinket
+  id: 1134
+
+- name: Yellow Double Sponge Charm
+  key: yellow_double_sponge_trinket
+  id: 1135
+
+- name: Shamrock Charm
+  key: shamrock_trinket
+  id: 1139
+
+- name: Eggscavator Charge Charm
+  key: egg_charge_trinket
+  id: 1164
+
+- name: Cactus Charm
+  key: cactus_trinket
+  id: 1178
+
+- name: Sheriff's Badge Charm
+  key: sheriff_badge_trinket
+  id: 1179
+
+- name: Supply Schedule Charm
+  key: book_warmer_trinket
+  id: 1206
+
+- name: Black Powder Charm
+  key: train_black_powder_trinket
+  id: 1207
+
+- name: Dusty Coal Charm
+  key: train_coal_trinket
+  id: 1208
+
+- name: Magmatic Crystal Charm
+  key: train_magmatic_crystal_trinket
+  id: 1209
+
+- name: Door Guard Charm
+  key: trouble_area_door_trinket
+  id: 1210
+
+- name: Greasy Glob Charm
+  key: trouble_area_rails_trinket
+  id: 1211
+
+- name: Roof Rack Charm
+  key: trouble_area_roof_trinket
+  id: 1212
+
+- name: Brain Charm
+  key: brain_trinket
+  id: 1236
+
+- name: Ultimate Spooky Charm
+  key: ultimate_spooky_trinket
+  id: 1237
+
+- name: Regal Charm
+  key: regal_trinket
+  id: 1252
+
+- name: Festive Ultimate Luck Charm
+  key: festive_ultimate_luck_trinket
+  id: 1288
+
+- name: Festive Ultimate Power Charm
+  key: festive_ultimate_power_trinket
+  id: 1289
+
+- name: Snowball Charm
+  key: snowball_trinket
+  id: 1290
+
+- name: 2014 Charm
+  key: 2014_trinket
+  id: 1300
+
+- name: Extreme Polluted Charm
+  key: extreme_polluted_trinket
+  id: 1341
+
+- name: Polluted Charm
+  key: polluted_trinket
+  id: 1342
+
+- name: Soap Charm
+  key: soap_trinket
+  id: 1343
+
+- name: Super Polluted Charm
+  key: super_polluted_trinket
+  id: 1344
+
+- name: Ultimate Polluted Charm
+  key: ultimate_polluted_trinket
+  id: 1345
+
+- name: Horsepower Charm
+  key: horse_power_trinket
+  id: 1372
+
+- name: Rift Charm
+  key: rift_trinket
+  id: 1430
+
+- name: Airship Charm
+  key: airship_trinket
+  id: 1474
+
+- name: EMP400 Charm
+  key: emp400_trinket
+  id: 1475
+
+- name: Super Cactus Charm
+  key: super_cactus_trinket
+  id: 1476
+
+- name: Super Soap Charm
+  key: super_soap_trinket
+  id: 1477
+
+- name: Unstable Charm
+  key: unstable_trinket
+  id: 1478
+
+- name: Striker Charm
+  key: striker_trinket
+  id: 1492
+
+- name: Water Jet Charm
+  key: water_jet_trinket
+  id: 1517
+
+- name: Rift Power Charm
+  key: rift_power_trinket
+  id: 1552
+
+- name: Rift Vacuum Charm
+  key: rift_vacuum_trinket
+  id: 1553
+
+- name: Candy Charm
+  key: candy_trinket
+  id: 1575
+
+- name: Super Spooky Charm
+  key: extra_spooky_trinket
+  id: 1576
+
+- name: Shortcut Charm
+  key: shortcut_trinket
+  id: 1577
+
+- name: Super Brain Charm
+  key: super_brain_trinket
+  id: 1578
+
+- name: Winter Builder Charm
+  key: winter_builder_trinket
+  id: 1590
+
+- name: Winter Hoarder Charm
+  key: winter_hoarder_trinket
+  id: 1591
+
+- name: Winter Miser Charm
+  key: winter_miser_trinket
+  id: 1592
+
+- name: 2015 Charm
+  key: 2015_trinket
+  id: 1629
+
+- name: Taunting Charm
+  key: calming_trinket
+  id: 1647
+
+- name: Cherry Charm
+  key: cherry_trinket
+  id: 1648
+
+- name: Gnarled Charm
+  key: gnarled_trinket
+  id: 1649
+
+- name: Rift Ultimate Luck Charm
+  key: rift_ultimate_luck_trinket
+  id: 1650
+
+- name: Rift Ultimate Power Charm
+  key: rift_ultimate_power_trinket
+  id: 1651
+
+- name: Stagnant Charm
+  key: wicked_gnarly_trinket
+  id: 1652
+
+- name: Ramming Speed Charm
+  key: ramming_speed_trinket
+  id: 1668
+
+- name: Cupcake Charm
+  key: cupcake_trinket
+  id: 1688
+
+- name: Rainbow Charm
+  key: rainbow_luck_trinket
+  id: 1692
+
+- name: Eggstra Charge Charm
+  key: eggstra_charge_trinket
+  id: 1714
+
+- name: Diamond Boost Charm
+  key: diamond_boost_trinket
+  id: 1735
+
+- name: Gemstone Boost Charm
+  key: gemstone_boost_trinket
+  id: 1736
+
+- name: Nightshade Farming Charm
+  key: nightshade_boost_trinket
+  id: 1737
+
+- name: Spore Charm
+  key: spore_trinket
+  id: 1738
+
+- name: Super Spore Charm
+  key: super_spore_trinket
+  id: 1739
+
+- name: Ultimate Spore Charm
+  key: ultimate_spore_trinket
+  id: 1740
+
+- name: Baitkeep Charm
+  key: baitkeep_trinket
+  id: 1815
+
+- name: Extreme Ancient Charm
+  key: extreme_ancient_trinket
+  id: 1816
+
+- name: Extreme Attraction Charm
+  key: extreme_attraction_trinket
+  id: 1817
+
+- name: Extreme Power Charm
+  key: extreme_power_trinket
+  id: 1818
+
+- name: Shielding Charm
+  key: shielding_trinket
+  id: 1819
+
+- name: Super Ancient Charm
+  key: super_ancient_trinket
+  id: 1820
+
+- name: Super Attraction Charm
+  key: super_attraction_trinket
+  id: 1821
+
+- name: Ultimate Ancient Charm
+  key: ultimate_ancient_trinket
+  id: 1822
+
+- name: Ultimate Attraction Charm
+  key: ultimate_attraction_trinket
+  id: 1823
+
+- name: Gargantua Charm
+  key: gargantua_trinket
+  id: 1835
+
+- name: Golden Anchor Charm
+  key: golden_anchor_trinket
+  id: 1836
+
+- name: Oxygen Burst Charm
+  key: oxygen_burst_trinket
+  id: 1837
+
+- name: Smart Water Jet Charm
+  key: smart_water_jet_trinket
+  id: 1838
+
+- name: Spiked Anchor Charm
+  key: spiked_anchor_trinket
+  id: 1839
+
+- name: Super Wealth Charm
+  key: super_gold_bonus_trinket
+  id: 1840
+
+- name: Super Rift Vacuum Charm
+  key: super_rift_vacuum_trinket
+  id: 1841
+
+- name: Treasure Trawling Charm
+  key: treasure_trawling_trinket
+  id: 1844
+
+- name: Ultimate Anchor Charm
+  key: ultimate_anchoring_trinket
+  id: 1846
+
+- name: Ultimate Lucky Power Charm
+  key: ultimate_luck_power_trinket
+  id: 1920
+
+- name: Glowing Gourd Charm
+  key: glowing_gourd_trinket
+  id: 1940
+
+- name: Shadow Charm
+  key: shadow_trinket
+  id: 1941
+
+- name: Hydro Charm
+  key: hydro_trinket
+  id: 1968
+
+- name: Super Regal Charm
+  key: super_regal_trinket
+  id: 1982
+
+- name: 2016 Charm
+  key: 2016_trinket
+  id: 2009
+
+- name: Monkey Fling Charm
+  key: monkey_fling_trinket
+  id: 2022
+
+- name: Extra Sweet Cupcake Charm
+  key: extra_sweet_cupcake_trinket
+  id: 2038
+
+- name: Enerchi Charm
+  key: rift_furoma_energy_trinket
+  id: 2081
+
+- name: Rift Ultimate Lucky Power Charm
+  key: rift_ultimate_luck_power_trinket
+  id: 2121
+
+- name: Compass Magnet Charm
+  key: compass_magnet_trinket
+  id: 2139
+
+- name: Crucible Cloning Charm
+  key: crucible_boost_trinket
+  id: 2140
+
+- name: Extreme Wealth Charm
+  key: extreme_gold_bonus_trinket
+  id: 2141
+
+- name: Lantern Oil Charm
+  key: lantern_oil_trinket
+  id: 2142
+
+- name: Super Nightshade Farming Charm
+  key: super_nightshade_farming_trinket
+  id: 2143
+
+- name: Gilded Charm
+  key: gilded_trinket
+  id: 2174
+
+- name: Torch Charm
+  key: athlete_torch_trinket
+  id: 2180
+
+- name: Festive Anchor Charm
+  key: festive_anchor_trinket
+  id: 2248
+
+- name: 2017 Charm
+  key: 2017_trinket
+  id: 2262
+
+- name: Lucky Valentine Charm
+  key: lucky_valentine_trinket
+  id: 2275
+
+- name: Sprinkly Sweet Cupcake Charm
+  key: sprinkley_sweet_cupcake_trinket
+  id: 2286
+
+- name: Rift Antiskele Charm
+  key: rift_anti_skele_trinket
+  id: 2322
+
+- name: Realm Ripper Charm
+  key: chamber_cleaver_trinket
+  id: 2345
+
+- name: Rift Luck Charm
+  key: rift_luck_trinket
+  id: 2346
+
+- name: Rift Super Luck Charm
+  key: rift_super_luck_trinket
+  id: 2347
+
+- name: Timesplit Charm
+  key: temporal_fusion_trinket
+  id: 2348
+
+- name: Rift Extreme Luck Charm
+  key: rift_extreme_luck_trinket
+  id: 2363
+
+- name: Rift Wealth Charm
+  key: rift_gold_bonus_trinket
+  id: 2364
+
+- name: Nightlight Charm
+  key: nightlight_trinket
+  id: 2396
+
+- name: Rift Airship Charm
+  key: rift_airship_trinket
+  id: 2397
+
+- name: Super Enerchi Charm
+  key: rift_super_furoma_energy_trinket
+  id: 2398
+
+- name: Ultimate Wealth Charm
+  key: ultimate_gold_bonus_trinket
+  id: 2399
+
+- name: Small Power Charm
+  key: weak_power_trinket
+  id: 2472
+
+- name: Extreme Snowball Charm
+  key: extreme_snowball_trinket
+  id: 2523
+
+- name: Festive Ultimate Lucky Power Charm
+  key: festive_ultimate_luck_power_trinket
+  id: 2524
+
+- name: Gift Wrapped Charm
+  key: gift_wrapped_trinket
+  id: 2525
+
+- name: Let It Snow Charm
+  key: let_it_snow_trinket
+  id: 2526
+
+- name: Super Snowball Charm
+  key: super_snowball_trinket
+  id: 2527
+
+- name: Ultimate Snowball Charm
+  key: ultimate_snowball_trinket
+  id: 2528
+
+- name: 2018 Charm
+  key: 2018_trinket
+  id: 2539
+
+- name: Extreme Regal Charm
+  key: extreme_regal_trinket
+  id: 2542
+
+- name: Reality Restitch Charm
+  key: restitched_trinket
+  id: 2583
+
+- name: Hunter's Horn Rewind Charm
+  key: rewind_trinket
+  id: 2584
+
+- name: Ember Charm
+  key: ember_trinket
+  id: 2631
+
+- name: Queso Pump Charm
+  key: remote_pumping_trinket
+  id: 2632
+
+- name: Super Dragonbane Charm
+  key: super_dragonbane_trinket
+  id: 2651
+
+- name: Super Lantern Oil Charm
+  key: super_lantern_oil_trinket
+  id: 2652
+
+- name: Super Queso Pump Charm
+  key: wild_tonic_remote_pumping_trinket
+  id: 2653
+
+- name: Extreme Spooky Charm
+  key: extreme_spooky_trinket
+  id: 2701
+
+- name: Pointy Charm
+  key: pointy_trinket
+  id: 2702
+
+- name: 2019 Charm
+  key: 2019_trinket
+  id: 2734
+
+- name: Golem Guardian Charm
+  key: snow_golem_trinket
+  id: 2735
+
+- name: Factory Repair Charm
+  key: birthday_factory_trinket
+  id: 2780
+
+- name: Extreme Dragonbane Charm
+  key: extrme_dragonbane_trinket
+  id: 2816
+
+- name: Extreme Queso Pump Charm
+  key: extreme_wild_tonic_remote_pumping_trinket
+  id: 2868
+
+- name: Stalemate Charm
+  key: stalemate_trinket
+  id: 2869
+
+- name: Super Wax Charm
+  key: super_wax_trinket
+  id: 2870
+
+- name: Rift Extreme Power Charm
+  key: rift_extreme_power_trinket
+  id: 2907
+
+- name: Rift Super Power Charm
+  key: rift_super_power_trinket
+  id: 2908
+
+- name: Rift Spooky Charm
+  key: rift_spooky_trinket
+  id: 2917
+
+- name: 2020 Charm
+  key: 2020_trinket
+  id: 2957
+
+- name: Rift 2020 Charm
+  key: rift_2020_trinket
+  id: 2958
+
+- name: Rift Extreme Snowball Charm
+  key: rift_extreme_snowball_trinket
+  id: 2959
+
+- name: Rift Snowball Charm
+  key: rift_snowball_trinket
+  id: 2960
+
+- name: Rift Super Snowball Charm
+  key: rift_super_snowball_trinket
+  id: 2961
+
+- name: Rift Ultimate Snowball Charm
+  key: rift_ultimate_snowball_trinket
+  id: 2962
+
+- name: Extreme Party Charm
+  key: extreme_party_trinket
+  id: 2990
+
+- name: Super Party Charm
+  key: super_party_trinket
+  id: 2991
+
+- name: Ultimate Party Charm
+  key: ultimate_party_trinket
+  id: 2992
+
+- name: Rift Chrome Charm
+  key: rift_chrome_trinket
+  id: 3026
+
+- name: Rift Tarnished Charm
+  key: rift_tarnished_trinket
+  id: 3027
+
+- name: 2021 Charm
+  key: 2021_trinket
+  id: 3153
+
+- name: Rift 2021 Charm
+  key: rift_2021_trinket
+  id: 3154

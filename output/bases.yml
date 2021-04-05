@@ -1,0 +1,423 @@
+- name: Aqua Base
+  key: aqua_base
+  id: 17
+
+- name: Bamboozler Base
+  key: bamboo_base
+  id: 18
+
+- name: Birthday Cake Base
+  key: birthday_cake_base
+  id: 19
+
+- name: Candy Cane Base
+  key: candy_cane_base
+  id: 20
+
+- name: Chocolate Birthday Cake Base
+  key: choc_cake_base
+  id: 21
+
+- name: Dehydration Base
+  key: dehydration_base
+  id: 22
+
+- name: Explosive Base
+  key: explosive_base
+  id: 23
+
+- name: Firecracker Base
+  key: firecracker_base
+  id: 24
+
+- name: Gingerbread Base
+  key: gingerbread_base
+  id: 25
+
+- name: Magma Base
+  key: magma_base
+  id: 26
+
+- name: Monolith Base
+  key: monolith_base
+  id: 27
+
+- name: Polar Base
+  key: polar_base
+  id: 28
+
+- name: Stone Base
+  key: stone_base
+  id: 29
+
+- name: Tribal Base
+  key: tribal_base
+  id: 30
+
+- name: Wooden Base
+  key: wooden_base
+  id: 31
+
+- name: Wooden Base with Target
+  key: wooden_base_with_target
+  id: 32
+
+- name: Molten Shrapnel Base
+  key: molten_shrapnel_base
+  id: 342
+
+- name: Spellbook Base
+  key: spellbook_base
+  id: 368
+
+- name: Bacon Base
+  key: bacon_base
+  id: 476
+
+- name: Runic Base
+  key: runic_base
+  id: 477
+
+- name: Seasonal Base
+  key: seasonal_base
+  id: 478
+
+- name: Tiki Base
+  key: tiki_base
+  id: 479
+
+- name: Cheesecake Base
+  key: cheese_cake_base
+  id: 511
+
+- name: Papyrus Base
+  key: papyrus_base
+  id: 618
+
+- name: Silver Tournament Base
+  key: challengers_silver_base
+  id: 778
+
+- name: Golden Tournament Base
+  key: champions_gold_base
+  id: 779
+
+- name: Bronze Tournament Base
+  key: competitors_bronze_base
+  id: 780
+
+- name: Dragon Jade Base
+  key: dragon_jade_base
+  id: 798
+
+- name: Jade Base
+  key: jade_base
+  id: 799
+
+- name: Carrot Birthday Cake Base
+  key: carrot_cake_base
+  id: 821
+
+- name: Hearthstone Base
+  key: hearthstone_base
+  id: 870
+
+- name: Magnet Base
+  key: magnet_base
+  id: 871
+
+- name: Remote Detonator Base
+  key: remote_detonator_base
+  id: 872
+
+- name: Spiked Base
+  key: spiked_base
+  id: 873
+
+- name: Deep Freeze Base
+  key: deep_freeze_base
+  id: 899
+
+- name: Fan Base
+  key: fan_base
+  id: 957
+
+- name: Soiled Base
+  key: soiled_base
+  id: 1003
+
+- name: Rift Base
+  key: rift_base
+  id: 1073
+
+- name: Snake Jade Base
+  key: snake_jade_base
+  id: 1099
+
+- name: Crushed Birthday Cake Base
+  key: crushed_birthday_cake_base
+  id: 1125
+
+- name: Claw Shot Base
+  key: claw_shot_base
+  id: 1202
+
+- name: Eerie Base
+  key: eerie_base
+  id: 1232
+
+- name: Eerier Base
+  key: eerie_upgraded_base
+  id: 1233
+
+- name: Polluted Base
+  key: polluted_base
+  id: 1337
+
+- name: Washboard Base
+  key: washboard_base
+  id: 1338
+
+- name: Horse Jade Base
+  key: horse_jade_base
+  id: 1371
+
+- name: Birthday Dragée Cake Base
+  key: birthday_dragee_cake_base
+  id: 1404
+
+- name: Physical Brace Base
+  key: physical_enhancement_base
+  id: 1468
+
+- name: Tidal Base
+  key: tidal_base
+  id: 1513
+
+- name: Skello-ton Base
+  key: skelloton_base
+  id: 1574
+
+- name: Hothouse Base
+  key: hothouse_base
+  id: 1623
+
+- name: Fissure Base
+  key: fissure_base
+  id: 1644
+
+- name: Fracture Base
+  key: fracture_base
+  id: 1645
+
+- name: Sheep Jade Base
+  key: sheep_jade_base
+  id: 1667
+
+- name: Cupcake Birthday Base
+  key: cupcake_birthday_base
+  id: 1686
+
+- name: Labyrinth Base
+  key: labyrinth_base
+  id: 1914
+
+- name: Minotaur Base
+  key: minotaur_base
+  id: 1915
+
+- name: Refined Pollutinum Base
+  key: refined_pollutinum_base
+  id: 1964
+
+- name: Depth Charge Base
+  key: depth_charge_base
+  id: 2007
+
+- name: Tribal Kaboom Base
+  key: tribal_kaboom_base
+  id: 2008
+
+- name: Monkey Jade Base
+  key: monkey_jade_base
+  id: 2021
+
+- name: Extra Sweet Cupcake Birthday Base
+  key: cupcake_2016_birthday_base
+  id: 2048
+
+- name: Enerchi Induction Base
+  key: furoma_rift_energy_base
+  id: 2093
+
+- name: Living Base
+  key: living_base
+  id: 2094
+
+- name: Attuned Enerchi Induction Base
+  key: furoma_rift_energy_upgraded_base
+  id: 2120
+
+- name: 2017 New Year's Base
+  key: new_years_2017_base
+  id: 2259
+
+- name: Rooster Jade Base
+  key: rooster_jade_base
+  id: 2270
+
+- name: Sprinkly Sweet Cupcake Birthday Base
+  key: cupcake_2017_birthday_base
+  id: 2284
+
+- name: Clockwork Base
+  key: clockwork_base
+  id: 2341
+
+- name: Ultimate Iceberg Base
+  key: ultimate_iceberg_base
+  id: 2392
+
+- name: Ancient Booster Base
+  key: ancient_booster_base
+  id: 2425
+
+- name: Festive Winter Hunt Base
+  key: festive_winter_hunt_base
+  id: 2516
+
+- name: 2018 New Year's Base
+  key: new_years_2018_base
+  id: 2538
+
+- name: Dog Jade Base
+  key: dog_jade_base
+  id: 2554
+
+- name: 10 Layer Birthday Cake Base
+  key: tenth_birthday_2018_cake_base
+  id: 2576
+
+- name: Overgrown Ember Stone Base
+  key: queso_canyon_base
+  id: 2620
+
+- name: Denture Base
+  key: denture_base
+  id: 2647
+
+- name: Black Widow Base
+  key: black_widow_base
+  id: 2674
+
+- name: Furoma Base
+  key: furoma_base
+  id: 2675
+
+- name: Deadwood Plank Base
+  key: deadwood_plank_base
+  id: 2697
+
+- name: 2019 New Year's Base
+  key: new_years_2019_base
+  id: 2730
+
+- name: Glowing Golem Guardian Base
+  key: snow_golem_base
+  id: 2731
+
+- name: Pig Jade Base
+  key: pig_jade_base
+  id: 2755
+
+- name: Birthday Banana Cake Base
+  key: birthday_banana_cake_base
+  id: 2776
+
+- name: Aurora Base
+  key: aurora_base
+  id: 2865
+
+- name: Living Grove Base
+  key: living_grove_base
+  id: 2866
+
+- name: Prestige Base
+  key: valour_rift_prestige_base
+  id: 2904
+
+- name: Hallowed Ground Base
+  key: hallowed_ground_base
+  id: 2915
+
+- name: Electromagnetic Meteorite Base
+  key: electromagnet_meteorite_base
+  id: 2937
+
+- name: Vegetation Base
+  key: vegetation_base
+  id: 2938
+
+- name: Desert Heater Base
+  key: desert_heater_base
+  id: 2952
+
+- name: 2020 New Year's Base
+  key: new_years_2020_base
+  id: 2953
+
+- name: Treasure Seeker Base
+  key: treasure_gwh_base
+  id: 2954
+
+- name: Rat Jade Base
+  key: rat_jade_base
+  id: 2973
+
+- name: Birthday Confetti Cake Base
+  key: birthday_confetti_cake_base
+  id: 2988
+
+- name: Signature Series Denture Base
+  key: upgraded_denture_base
+  id: 3023
+
+- name: Adorned Empyrean Refractor Base
+  key: empyrean_jewel_base
+  id: 3080
+
+- name: Condemned Base
+  key: condemned_base
+  id: 3104
+
+- name: Forecaster Base
+  key: forecaster_base
+  id: 3127
+
+- name: Thief Base
+  key: thief_base
+  id: 3128
+
+- name: Elixir Exchanger Base
+  key: elixir_exchanger_base
+  id: 3149
+
+- name: Gift of the Day Base
+  key: gift_of_the_day_base
+  id: 3150
+
+- name: 2021 New Year's Base
+  key: new_years_2021_base
+  id: 3151
+
+- name: Ox Jade Base
+  key: ox_jade_base
+  id: 3170
+
+- name: Birthday Ube Cake Base
+  key: birthday_ube_cake_base
+  id: 3187
+
+- name: Chocolate Bar Base
+  key: chocolate_bar_base
+  id: 3238

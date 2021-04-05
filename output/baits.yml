@@ -1,0 +1,487 @@
+- name: Ancient Cheese
+  key: ancient_cheese
+  id: 79
+
+- name: Brie Cheese
+  key: brie_cheese
+  id: 80
+
+- name: Cheddar Cheese
+  key: cheddar_cheese
+  id: 81
+
+- name: Combat Cheese
+  key: combat_cheese
+  id: 82
+
+- name: Creamy Havarti Cheese
+  key: creamy_havarti_cheese
+  id: 83
+
+- name: Crunchy Cheese
+  key: crunchy_cheese
+  id: 84
+
+- name: Crunchy Havarti Cheese
+  key: crunchy_havarti_cheese
+  id: 85
+
+- name: Gauntlet Cheese Tier 2
+  key: gauntlet_cheese_2
+  id: 87
+
+- name: Gauntlet Cheese Tier 3
+  key: gauntlet_cheese_3
+  id: 88
+
+- name: Gauntlet Cheese Tier 4
+  key: gauntlet_cheese_4
+  id: 89
+
+- name: Gauntlet Cheese Tier 5
+  key: gauntlet_cheese_5
+  id: 90
+
+- name: Gauntlet Cheese Tier 6
+  key: gauntlet_cheese_6
+  id: 91
+
+- name: Gauntlet Cheese Tier 7
+  key: gauntlet_cheese_7
+  id: 92
+
+- name: Gauntlet Cheese Tier 8
+  key: gauntlet_cheese_8
+  id: 93
+
+- name: Gilded Cheese
+  key: gilded_cheese
+  id: 94
+
+- name: Gingerbread Cheese
+  key: gingerbread_cheese
+  id: 95
+
+- name: Glutter Cheese
+  key: glutter_cheese
+  id: 96
+
+- name: Gnarled Cheese
+  key: gnarled_cheese
+  id: 97
+
+- name: Gouda Cheese
+  key: gouda_cheese
+  id: 98
+
+- name: Gumbo Cheese
+  key: gumbo_cheese
+  id: 99
+
+- name: Inferno Havarti Cheese
+  key: inferno_havarti_cheese
+  id: 100
+
+- name: Limelight Cheese
+  key: limelight_cheese
+  id: 101
+
+- name: Magical Havarti Cheese
+  key: magical_havarti_cheese
+  id: 102
+
+- name: Maki Cheese
+  key: maki_cheese
+  id: 103
+
+- name: Marble Cheese
+  key: marble_cheese
+  id: 104
+
+- name: Moon Cheese
+  key: moon_cheese
+  id: 105
+
+- name: Onyx Gorgonzola
+  key: onyx_gorgonzola_cheese
+  id: 106
+
+- name: Pungent Havarti Cheese
+  key: pungent_havarti_cheese
+  id: 107
+
+- name: Radioactive Blue Cheese
+  key: radioactive_blue_cheese
+  id: 108
+
+- name: Rockforth Cheese
+  key: rockforth_cheese
+  id: 109
+
+- name: Rumble Cheese
+  key: rumble_cheese
+  id: 110
+
+- name: Runic Cheese
+  key: runic_cheese
+  id: 111
+
+- name: Shell Cheese
+  key: shell_cheese
+  id: 112
+
+- name: Spicy Havarti Cheese
+  key: spicy_havarti_cheese
+  id: 113
+
+- name: SUPER|brie+
+  key: super_brie_cheese
+  id: 114
+
+- name: Susheese Cheese
+  key: susheese_cheese
+  id: 115
+
+- name: Sweet Havarti Cheese
+  key: sweet_havarti_cheese
+  id: 116
+
+- name: Swiss Cheese
+  key: swiss_cheese
+  id: 117
+
+- name: Vanilla Stilton Cheese
+  key: vanilla_stilton_cheese
+  id: 118
+
+- name: Vengeful Vanilla Stilton Cheese
+  key: vengeful_vanilla_stilton_cheese
+  id: 119
+
+- name: White Cheddar Cheese
+  key: white_cheddar_cheese
+  id: 120
+
+- name: Wicked Gnarly Cheese
+  key: wicked_gnarly_cheese
+  id: 121
+
+- name: Cherry Cheese
+  key: cherry_cheese
+  id: 343
+
+- name: Checkmate Cheese
+  key: checkmate_cheese
+  id: 371
+
+- name: Mozzarella Cheese
+  key: mozzarella_cheese
+  id: 386
+
+- name: Candy Corn Cheese
+  key: treat_cheese
+  id: 397
+
+- name: Ghoulgonzola Cheese
+  key: trick_cheese
+  id: 398
+
+- name: Seasoned Gouda
+  key: seasoned_gouda_cheese
+  id: 466
+
+- name: Nutmeg Cheese
+  key: nutmug_cheese
+  id: 469
+
+- name: Cupcake Colby
+  key: cupcake_cheese
+  id: 513
+
+- name: Marshmallow Monterey
+  key: marshmallow_monterey_cheese
+  id: 586
+
+- name: Undead Emmental
+  key: undead_emmental_cheese
+  id: 590
+
+- name: Ninjabread Cheese
+  key: mountain_ninja_cheese
+  id: 610
+
+- name: Festive Feta
+  key: festive_feta_cheese
+  id: 753
+
+- name: Runny Cheese
+  key: runny_cheese
+  id: 907
+
+- name: Dewthief Camembert
+  key: dewthief_camembert_cheese
+  id: 1007
+
+- name: Duskshade Camembert
+  key: duskshade_camembert_cheese
+  id: 1008
+
+- name: Graveblossom Camembert
+  key: graveblossom_camembert_cheese
+  id: 1009
+
+- name: Lunaria Camembert
+  key: lunaria_camembert_cheese
+  id: 1010
+
+- name: Expired Event Cheese
+  key: expired_cheese
+  id: 1058
+
+- name: Snowball Bocconcini
+  key: snowball_cheese
+  id: 1287
+
+- name: Rancid Radioactive Blue Cheese
+  key: super_radioactive_blue_cheese
+  id: 1340
+
+- name: Fusion Fondue
+  key: fusion_fondue_cheese
+  id: 1386
+
+- name: Brie String Cheese
+  key: brie_string_cheese
+  id: 1424
+
+- name: Resonator Cheese
+  key: gnawnia_boss_cheese
+  id: 1425
+
+- name: Magical String Cheese
+  key: magical_string_cheese
+  id: 1426
+
+- name: Marble String Cheese
+  key: marble_string_cheese
+  id: 1427
+
+- name: Riftiago Cheese
+  key: riftiago_cheese
+  id: 1428
+
+- name: Swiss String Cheese
+  key: swiss_string_cheese
+  id: 1429
+
+- name: Fishy Fromage
+  key: fishy_fromage_cheese
+  id: 1516
+
+- name: Grilled Cheese
+  key: grilled_cheese
+  id: 1529
+
+- name: Polluted Parmesan Cheese
+  key: polluted_parmesan_cheese
+  id: 1550
+
+- name: Terre Ricotta Cheese
+  key: terre_ricotta_cheese
+  id: 1551
+
+- name: Arctic Asiago Cheese
+  key: arctic_asiago_cheese
+  id: 1589
+
+- name: Lactrodectus Lancashire Cheese
+  key: lactrodectus_lancashire_cheese
+  id: 1646
+
+- name: Diamond Cheese
+  key: diamond_cheese
+  id: 1731
+
+- name: Gemstone Cheese
+  key: gemstone_cheese
+  id: 1732
+
+- name: Glowing Gruyere Cheese
+  key: glowing_gruyere_cheese
+  id: 1733
+
+- name: Mineral Cheese
+  key: mineral_cheese
+  id: 1734
+
+- name: Galleon Gouda
+  key: galleon_gouda_cheese
+  id: 1814
+
+- name: Empowered Brie
+  key: toxic_brie_cheese
+  id: 1966
+
+- name: Empowered SUPER|brie+
+  key: toxic_super_brie_cheese
+  id: 1967
+
+- name: Gouda String Cheese
+  key: gouda_string_cheese
+  id: 1981
+
+- name: Extra Sweet Cupcake Colby
+  key: extra_sweet_cupcake_cheese
+  id: 2037
+
+- name: Maki String Cheese
+  key: maki_string_cheese
+  id: 2080
+
+- name: Rift Combat Cheese
+  key: rift_combat_cheese
+  id: 2096
+
+- name: Rift Glutter Cheese
+  key: rift_glutter_cheese
+  id: 2097
+
+- name: Ascended Cheese
+  key: rift_hapless_cheese
+  id: 2098
+
+- name: Master Fusion Cheese
+  key: rift_master_cheese
+  id: 2099
+
+- name: Null Onyx Gorgonzola
+  key: rift_onyx_cheese
+  id: 2100
+
+- name: Rift Rumble Cheese
+  key: rift_rumble_cheese
+  id: 2101
+
+- name: Rift Susheese
+  key: rift_susheese
+  id: 2102
+
+- name: Crescent Cheese
+  key: crescent_cheese
+  id: 2226
+
+- name: Dumpling Cheese
+  key: lunar_new_year_2017_cheese
+  id: 2271
+
+- name: Sunrise Cheese
+  key: fort_rox_lair_cheese
+  id: 2290
+
+- name: Undead String Emmental
+  key: string_undead_emmental_cheese
+  id: 2321
+
+- name: Ancient String Cheese
+  key: ancient_string_cheese
+  id: 2343
+
+- name: Runic String Cheese
+  key: runic_string_cheese
+  id: 2344
+
+- name: Magical Rancid Radioactive Blue Cheese
+  key: magical_radioactive_blue_cheese
+  id: 2369
+
+- name: Dragonvine Cheese
+  key: dragonvine_cheese
+  id: 2440
+
+- name: Rainy Cheese
+  key: rain_cheese
+  id: 2441
+
+- name: Windy Cheese
+  key: wind_cheese
+  id: 2442
+
+- name: Ghastly Galleon Gouda
+  key: ghastly_galleon_cheese
+  id: 2462
+
+- name: Lockbox Limburger Cheese
+  key: lockbox_limburger_cheese
+  id: 2463
+
+- name: Abominable Asiago Cheese
+  key: abominable_asiago_cheese
+  id: 2470
+
+- name: Chedd-Ore Cheese
+  key: cheddore_cheese
+  id: 2471
+
+- name: Pecan Pecorino Cheese
+  key: pecan_pecorino_cheese
+  id: 2522
+
+- name: Nian Gao'da Cheese
+  key: lunar_new_year_2018_cheese
+  id: 2548
+
+- name: Rewind Raclette
+  key: rewind_raclette_cheese
+  id: 2582
+
+- name: Bland Queso
+  key: bland_queso_cheese
+  id: 2625
+
+- name: Flamin' Queso
+  key: flaming_queso_cheese
+  id: 2626
+
+- name: Hot Queso
+  key: hot_queso_cheese
+  id: 2627
+
+- name: Medium Queso
+  key: medium_queso_cheese
+  id: 2628
+
+- name: Mild Queso
+  key: mild_queso_cheese
+  id: 2629
+
+- name: Wildfire Queso
+  key: queso_river_boss_cheese
+  id: 2630
+
+- name: Crimson Cheese
+  key: crimson_cheese
+  id: 2700
+
+- name: Glazed Pecan Pecorino Cheese
+  key: glazed_pecan_pecorino_cheese
+  id: 2733
+
+- name: Coggy Colby Cheese
+  key: coggy_colby_cheese
+  id: 2779
+
+- name: Gauntlet String Cheese
+  key: gauntlet_string_cheese
+  id: 2906
+
+- name: Cloud Cheesecake
+  key: sky_cheese
+  id: 3089
+
+- name: Sky Pirate Swiss Cheese
+  key: sky_pirate_cheese
+  id: 3090
+
+- name: Speedy Coggy Colby
+  key: speed_coggy_colby_cheese
+  id: 3188

@@ -1,0 +1,12 @@
+{
+  "name": "mouseketeer-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^4.15.3",
+    "js-yaml": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}

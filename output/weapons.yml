@@ -1,0 +1,807 @@
+- name: 2010 Blastoff Trap
+  key: 2010_blastoff_trap_weapon
+  id: 33
+
+- name: 500 Pound Spiked Crusher
+  key: 500_pound_spiked_crusher_weapon
+  id: 34
+
+- name: Arcane Capturing Rod Of Never Yielding Mystery
+  key: acronym_weapon
+  id: 35
+
+- name: Ambrosial Portal
+  key: ambrosial_portal_weapon
+  id: 36
+
+- name: Ambush Trap
+  key: ambush_weapon
+  id: 37
+
+- name: Ancient Box Trap
+  key: ancient_box_trap_weapon
+  id: 38
+
+- name: Ancient Spear Gun
+  key: ancient_spear_gun_weapon
+  id: 39
+
+- name: Bottomless Grave
+  key: bottomless_grave_weapon
+  id: 40
+
+- name: Christmas Cracker Trap
+  key: christmas_cracker_trap_weapon
+  id: 41
+
+- name: Chrome DrillBot
+  key: chrome_drillbot_weapon
+  id: 42
+
+- name: Chrome Nannybot
+  key: chrome_nannybot_weapon
+  id: 43
+
+- name: Clockapult of Time
+  key: clockapult_of_time_weapon
+  id: 44
+
+- name: Chrome DeathBot
+  key: deathbot_chrome_edition_weapon
+  id: 45
+
+- name: Digby DrillBot
+  key: digby_drillbot_weapon
+  id: 46
+
+- name: Giant Speaker
+  key: giant_speaker_weapon
+  id: 47
+
+- name: Gingerbread House Surprise
+  key: gingerbread_house_surprise_weapon
+  id: 48
+
+- name: Gorgon Trap
+  key: gorgon_weapon
+  id: 49
+
+- name: Harpoon Gun
+  key: harpoon_gun_weapon
+  id: 50
+
+- name: High Tension Spring
+  key: high_tension_spring_weapon
+  id: 51
+
+- name: HitGrab Horsey
+  key: hitgrab_horsey_weapon
+  id: 52
+
+- name: HitGrab Rainbow Rockin' Horse
+  key: hitgrab_rainbow_rockin_horse_weapon
+  id: 53
+
+- name: HitGrab Rockin' Horse
+  key: hitgrab_rockin_horse_weapon
+  id: 54
+
+- name: Horrific Venus Mouse Trap
+  key: horrific_venus_mouse_trap_weapon
+  id: 55
+
+- name: Ice Maiden
+  key: ice_maiden_weapon
+  id: 56
+
+- name: Kraken Chaos
+  key: kraken_chaos_weapon
+  id: 57
+
+- name: Mouse DeathBot
+  key: mouse_deathbot_weapon
+  id: 58
+
+- name: Mouse Mary O'Nette
+  key: mouse_mary_onette_weapon
+  id: 59
+
+- name: Mouse Rocketine
+  key: mouse_rocketine_weapon
+  id: 60
+
+- name: Mouse Trebuchet
+  key: mouse_trebuchet_weapon
+  id: 61
+
+- name: Mutated Venus Mouse Trap
+  key: mutated_venus_mouse_trap_weapon
+  id: 62
+
+- name: Nannybot
+  key: nannybot_weapon
+  id: 63
+
+- name: Net Cannon
+  key: net_cannon_weapon
+  id: 64
+
+- name: NVMRC Forcefield Trap
+  key: nvmrc_forcefield_trap_weapon
+  id: 65
+
+- name: Obelisk of Incineration
+  key: obelisk_of_incineration_weapon
+  id: 66
+
+- name: Obelisk of Slumber
+  key: obelisk_of_slumber_weapon
+  id: 67
+
+- name: Onyx Mallet
+  key: onyx_mallet_weapon
+  id: 68
+
+- name: PartyBot
+  key: partybot_weapon
+  id: 69
+
+- name: RhinoBot
+  key: rhinobot_weapon
+  id: 70
+
+- name: Sinister Portal
+  key: sinister_portal_weapon
+  id: 71
+
+- name: Snow Barrage
+  key: snow_barrage_weapon
+  id: 72
+
+- name: Snowglobe Trap
+  key: snowglobe_trap_weapon
+  id: 73
+
+- name: Swiss Army Mouse Trap
+  key: swiss_army_mouse_trap_weapon
+  id: 74
+
+- name: Tacky Glue Trap
+  key: tacky_glue_trap_weapon
+  id: 75
+
+- name: Thorned Venus Mouse Trap
+  key: throned_venus_mouse_trap_weapon
+  id: 76
+
+- name: Venus Mouse Trap
+  key: venus_mouse_trap_weapon
+  id: 77
+
+- name: Zugzwang's Last Move
+  key: zugzwangs_last_move_weapon
+  id: 78
+
+- name: Fluffy DeathBot
+  key: fluffy_deathbot_weapon
+  id: 349
+
+- name: Grungy Deathbot
+  key: grungy_deathbot_weapon
+  id: 350
+
+- name: Heat Bath
+  key: heat_bath_weapon
+  id: 353
+
+- name: Mystic Pawn Pincher
+  key: mystic_low_weapon
+  id: 354
+
+- name: Technic Pawn Pincher
+  key: technic_low_weapon
+  id: 356
+
+- name: Zugzwang's First Move
+  key: zugzwangs_first_move_weapon
+  id: 357
+
+- name: Blackstone Pass Trap
+  key: blackstone_pass_weapon
+  id: 369
+
+- name: Obvious Ambush Trap
+  key: obvious_ambush_weapon
+  id: 370
+
+- name: Cackle Lantern Trap
+  key: cackle_lantern_weapon
+  id: 395
+
+- name: Pumpkin Pummeler
+  key: pumpkin_pummeler_weapon
+  id: 396
+
+- name: Ninja Ambush Trap
+  key: ninja_ambush_weapon
+  id: 422
+
+- name: Clockapult of Winter Past
+  key: clockapult_of_winter_past_weapon
+  id: 446
+
+- name: Icy RhinoBot
+  key: icy_rhinobot_weapon
+  id: 447
+
+- name: Double Diamond Adventure
+  key: double_diamond_toboggan_adventure_weapon
+  id: 464
+
+- name: Explosive Toboggan Ride
+  key: explosive_toboggan_ride_weapon
+  id: 465
+
+- name: Arcane Blast Trap
+  key: arcane_blast_weapon
+  id: 480
+
+- name: Pneumatic Tube Trap
+  key: pneumatic_tube_weapon
+  id: 481
+
+- name: Rewers Riposte
+  key: rewers_repost_weapon
+  id: 482
+
+- name: Shrink Ray Trap
+  key: shrink_ray_weapon
+  id: 483
+
+- name: Birthday Candle Kaboom
+  key: bday_candle_kaboom_weapon
+  id: 512
+
+- name: Enraged RhinoBot
+  key: enraged_rhinobot_weapon
+  id: 530
+
+- name: Oasis Water Node Trap
+  key: oasis_water_node_weapon
+  id: 531
+
+- name: Sandstorm MonstroBot
+  key: sandstormbot_weapon
+  id: 532
+
+- name: Sphynx Wrath
+  key: sphynx_weapon
+  id: 533
+
+- name: Dimensional Chest Trap
+  key: dimensional_chest_weapon
+  id: 608
+
+- name: Sandtail Sentinel
+  key: sentinel_weapon
+  id: 609
+
+- name: Reaper's Perch
+  key: reaper_perch_weapon
+  id: 675
+
+- name: Zurreal's Folly
+  key: zurreals_folly_weapon
+  id: 676
+
+- name: Soul Harvester
+  key: hween_2011_upgraded_weapon
+  id: 697
+
+- name: Soul Catcher
+  key: hween_2011_weapon
+  id: 698
+
+- name: Nutcracker Nuisance Trap
+  key: nutcracker_winter_weapon
+  id: 752
+
+- name: 2012 Big Boom Trap
+  key: 2012_big_boom_weapon
+  id: 766
+
+- name: Chrome RhinoBot
+  key: chrome_rhinobot_weapon
+  id: 800
+
+- name: Chrome Tacky Glue Trap
+  key: chrome_tacky_glue_weapon
+  id: 801
+
+- name: Warpath Thrasher
+  key: warpath_thrasher_weapon
+  id: 802
+
+- name: Birthday Party Piñata Bonanza
+  key: bday_2012_weapon
+  id: 822
+
+- name: Steam Laser Mk. I
+  key: steam_laser_mk_i_weapon
+  id: 874
+
+- name: Steam Laser Mk. II (Broken!)
+  key: broken_steam_laser_mk_ii_weapon
+  id: 893
+
+- name: Steam Laser Mk. II
+  key: steam_laser_mk_ii_weapon
+  id: 894
+
+- name: Steam Laser Mk. III
+  key: steam_laser_mk_iii_weapon
+  id: 895
+
+- name: Ancient Gauntlet
+  key: ancient_gauntlet_weapon
+  id: 927
+
+- name: Terrifying Spider Trap
+  key: terrifying_spider_weapon
+  id: 946
+
+- name: Clockwork Portal Trap
+  key: clockwork_portal_weapon
+  id: 1004
+
+- name: Grand Arcanum Trap
+  key: grand_arcanum_weapon
+  id: 1005
+
+- name: Phantasmic Oasis Trap
+  key: phantasmic_oasis_weapon
+  id: 1006
+
+- name: Wrapped Gift Trap
+  key: winter_hunt_2012_weapon
+  id: 1057
+
+- name: S.A.M. F.E.D. DN-5
+  key: sam_fed_weapon
+  id: 1100
+
+- name: Chrome MonstroBot
+  key: chrome_monstrobot_weapon
+  id: 1126
+
+- name: Isle Idol Trap
+  key: isle_idol_weapon
+  id: 1127
+
+- name: Tarannosaurus Rex Trap
+  key: tarannosaurus_rex_weapon
+  id: 1128
+
+- name: Ultra MegaMouser MechaBot Trap
+  key: ultra_megamouser_mechabot_weapon
+  id: 1129
+
+- name: Mouse Hot Tub
+  key: hot_tub_weapon
+  id: 1168
+
+- name: S.L.A.C. II
+  key: slac_ii_sling_weapon
+  id: 1176
+
+- name: S.L.A.C.
+  key: slac_spring_weapon
+  id: 1177
+
+- name: Bandit Deflector
+  key: bandit_deflector_weapon
+  id: 1203
+
+- name: Engine Doubler
+  key: engine_doubler_weapon
+  id: 1204
+
+- name: Supply Grabber
+  key: supply_grabber_weapon
+  id: 1205
+
+- name: Maniacal Brain Extractor
+  key: brain_extractor_upgrade_weapon
+  id: 1234
+
+- name: Brain Extractor
+  key: brain_extractor_weapon
+  id: 1235
+
+- name: Glacier Gatler
+  key: glacier_gatler_weapon
+  id: 1285
+
+- name: Ice Blaster
+  key: ice_blaster_weapon
+  id: 1286
+
+- name: Chesla's Revenge Trap
+  key: cheslas_revenge_weapon
+  id: 1314
+
+- name: Scum Scrubber
+  key: scum_scrubber_weapon
+  id: 1339
+
+- name: The Forgotten Art of Dance
+  key: forgotten_art_of_dance_weapon
+  id: 1405
+
+- name: Crystal Tower
+  key: crystal_tower_weapon
+  id: 1423
+
+- name: Chrome Oasis Water Node Trap
+  key: chrome_oasis_water_node_weapon
+  id: 1469
+
+- name: Chrome Phantasmic Oasis Trap
+  key: chrome_phantasmic_oasis_weapon
+  id: 1470
+
+- name: Dragon Lance
+  key: dragon_lance_weapon
+  id: 1471
+
+- name: The Law Draw
+  key: law_draw_weapon
+  id: 1472
+
+- name: Veiled Vine Trap
+  key: veiled_vine_weapon
+  id: 1473
+
+- name: Rune Shark Trap
+  key: rune_shark_weapon
+  id: 1514
+
+- name: School of Sharks
+  key: upgraded_rune_shark_weapon
+  id: 1515
+
+- name: Focused Crystal Laser
+  key: focused_crystal_laser_weapon
+  id: 1548
+
+- name: Multi-Crystal Laser
+  key: multi_crystal_laser_weapon
+  id: 1549
+
+- name: Festive Gauntlet Crusher
+  key: festive_gauntlet_crusher_weapon
+  id: 1624
+
+- name: Stale Cupcake Golem Trap
+  key: cupcake_bot_weapon
+  id: 1687
+
+- name: Crystal Crucible Trap
+  key: gemstone_weapon
+  id: 1730
+
+- name: Warden Slayer Trap
+  key: warden_slayer_weapon
+  id: 1813
+
+- name: Chrome Onyx Mallet
+  key: chrome_onyx_mallet_weapon
+  id: 1832
+
+- name: Chrome Sphynx Wrath
+  key: chrome_sphynx_weapon
+  id: 1833
+
+- name: Dreaded Totem Trap
+  key: dreaded_totem_weapon
+  id: 1834
+
+- name: Forgotten Pressure Plate Trap
+  key: poisonous_pressure_plate_weapon
+  id: 1849
+
+- name: Endless Labyrinth Trap
+  key: endless_labyrinth_weapon
+  id: 1916
+
+- name: Event Horizon Trap
+  key: event_horizon_weapon
+  id: 1917
+
+- name: Infinite Labyrinth Trap
+  key: infinite_labyrinth_weapon
+  id: 1918
+
+- name: Temporal Turbine
+  key: temporal_turbine
+  id: 1919
+
+- name: Candy Crusher Trap
+  key: candy_crusher_weapon
+  id: 1939
+
+- name: S.U.P.E.R. Scum Scrubber
+  key: super_scum_scrubber_weapon
+  id: 1965
+
+- name: Bubbles: The Party Crasher Trap
+  key: bubbles_party_crasher_weapon
+  id: 2049
+
+- name: Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes
+  key: rift_mynorca_weapon
+  id: 2095
+
+- name: Biomolecular Re-atomizer Trap
+  key: biomolecular_reatomizer_weapon
+  id: 2134
+
+- name: Chrome Arcane Capturing Rod Of Never Yielding Mystery
+  key: chrome_acronym_weapon
+  id: 2135
+
+- name: Crystal Mineral Crusher Trap
+  key: crystal_mineral_crusher_weapon
+  id: 2136
+
+- name: Law Laser Trap
+  key: law_laser_weapon
+  id: 2137
+
+- name: Zugzwang's Ultimate Move
+  key: zugzwang_ultimate_move_weapon
+  id: 2138
+
+- name: Sandcastle Shard Trap
+  key: sandcastle_shard_weapon
+  id: 2209
+
+- name: Droid Archmagus Trap
+  key: droid_archmagus_weapon
+  id: 2224
+
+- name: Interdimensional Crossbow Trap
+  key: wolfsbane_weapon
+  id: 2225
+
+- name: Festive Forgotten Fir Trap
+  key: xmas_2016_forgotten_weapon
+  id: 2246
+
+- name: Holiday Hydro Hailstone Trap
+  key: xmas_2016_hydro_weapon
+  id: 2247
+
+- name: New Year's Fireworks Trap
+  key: new_years_2017_weapon
+  id: 2260
+
+- name: New Horizon Trap
+  key: new_years_event_horizon_weapon
+  id: 2261
+
+- name: Sprinkly Cupcake Surprise Trap
+  key: sprinkley_cupcake_surprise_weapon
+  id: 2285
+
+- name: Meteor Prison Core Trap
+  key: meteor_prison_core_weapon
+  id: 2299
+
+- name: Timesplit Dissonance Trap
+  key: temporal_dissonance_weapon
+  id: 2342
+
+- name: Chrome Grand Arcanum Trap
+  key: chrome_grand_arcanum_weapon
+  id: 2393
+
+- name: Chrome Temporal Turbine
+  key: chrome_temporal_turbine_weapon
+  id: 2394
+
+- name: Rocket Propelled Gavel Trap
+  key: rocket_propelled_gavel_weapon
+  id: 2395
+
+- name: Dragonvine Ballista Trap
+  key: dragonvine_ballista_weapon
+  id: 2438
+
+- name: Storm Wrought Ballista Trap
+  key: storm_wrought_ballista_weapon
+  id: 2439
+
+- name: Haunted Shipwreck Trap
+  key: halloween_haunted_shipwreck_weapon
+  id: 2461
+
+- name: Christmas Cactus Trap
+  key: christmas_cactus_weapon
+  id: 2517
+
+- name: Christmas Crystalabra Trap
+  key: christmas_crystalabra_weapon
+  id: 2518
+
+- name: Goldfrost Crossbow Trap
+  key: goldfrost_crossbow_weapon
+  id: 2519
+
+- name: Infinite Winter Horizon Trap
+  key: great_winter_event_horizon_weapon
+  id: 2520
+
+- name: Harrowing Holiday Harpoon Harp
+  key: harrowing_holiday_harp_weapon
+  id: 2521
+
+- name: Anniversary Arcane Capturing Rod Of Never Yielding Mystery
+  key: anniversary_acronym_weapon
+  id: 2577
+
+- name: Anniversary Ambush
+  key: anniversary_ambush_weapon
+  id: 2578
+
+- name: Anniversary Ancient Box Trap
+  key: anniversary_ancient_box_trap_weapon
+  id: 2579
+
+- name: Anniversary DeathBot
+  key: anniversary_mouse_deathbot_weapon
+  id: 2580
+
+- name: Anniversary Reaper's Perch
+  key: anniversary_reaper_perch_weapon
+  id: 2581
+
+- name: Ember Prison Core Trap
+  key: ember_prison_core_weapon
+  id: 2621
+
+- name: Judge Droid Trap
+  key: judge_droid_weapon
+  id: 2622
+
+- name: Blazing Ember Spear Trap
+  key: queso_canyon_draconic_weapon
+  id: 2623
+
+- name: Scarlet Ember Root Trap
+  key: queso_canyon_forgotten_weapon
+  id: 2624
+
+- name: Chrome Storm Wrought Ballista Trap
+  key: chrome_storm_wrought_ballista_weapon
+  id: 2648
+
+- name: Paradise Falls Trap
+  key: paradise_falls_weapon
+  id: 2649
+
+- name: Well of Wisdom Trap
+  key: wise_well_of_wisdom_weapon
+  id: 2650
+
+- name: Admiral's Galleon Trap
+  key: admirals_galleon_weapon
+  id: 2698
+
+- name: Creepy Coffin Trap
+  key: creepy_coffin_weapon
+  id: 2699
+
+- name: Golem Guardian Trap
+  key: snow_golem_trap_weapon
+  id: 2732
+
+- name: Surprise Party Trap
+  key: surprise_party_weapon
+  id: 2777
+
+- name: Wacky Inflatable Party People Trap
+  key: wacky_inflatable_party_people_weapon
+  id: 2778
+
+- name: Dragon Slayer Cannon
+  key: geyser_draconic_weapon
+  id: 2842
+
+- name: Queso Fount Trap
+  key: geyser_hydro_weapon
+  id: 2843
+
+- name: Smoldering Stone Sentinel Trap
+  key: geyser_physical_weapon
+  id: 2844
+
+- name: Gouging Geyserite Trap
+  key: geyser_tactical_weapon
+  id: 2845
+
+- name: Moonbeam Barrier Trap
+  key: battering_ram_buster_weapon
+  id: 2867
+
+- name: Celestial Dissonance Trap
+  key: celestial_dissonance_weapon
+  id: 2905
+
+- name: Cemetery Gate Grappler
+  key: cemetery_gate_grappler_weapon
+  id: 2916
+
+- name: Father Winter's Timepiece Trap
+  key: chrono_gwh_weapon
+  id: 2955
+
+- name: Rift Glacier Gatler
+  key: rift_glacier_gatler_weapon
+  id: 2956
+
+- name: Queso Factory Trap
+  key: queso_factory_weapon
+  id: 2989
+
+- name: Carousel Charger Trap
+  key: carousel_charger_weapon
+  id: 3024
+
+- name: Chrome Celestial Dissonance Trap
+  key: chrome_celestial_dissonance_weapon
+  id: 3025
+
+- name: Circlet of Pursuing Trap
+  key: floating_arcane_upgraded_weapon
+  id: 3081
+
+- name: Circlet of Seeking Trap
+  key: floating_arcane_weapon
+  id: 3082
+
+- name: Thought Obliterator Trap
+  key: floating_forgotten_upgraded_weapon
+  id: 3083
+
+- name: Thought Manipulator Trap
+  key: floating_forgotten_weapon
+  id: 3084
+
+- name: S.T.I.N.G.E.R. Trap
+  key: floating_law_upgraded_weapon
+  id: 3085
+
+- name: S.T.I.N.G. Trap
+  key: floating_law_weapon
+  id: 3086
+
+- name: Slumbering Boulder Trap
+  key: floating_tactical_upgraded_weapon
+  id: 3087
+
+- name: Sleeping Stone Trap
+  key: floating_tactical_weapon
+  id: 3088
+
+- name: The Haunted Manor Trap
+  key: haunting_house_weapon
+  id: 3105
+
+- name: S.S. Scoundrel Sleigher Trap
+  key: pirate_sleigh_weapon
+  id: 3152
+
+- name: Darkest Chocolate Bunny Trap
+  key: dark_chocolate_bunny_weapon
+  id: 3239
