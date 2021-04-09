@@ -7,7 +7,7 @@ const CSV_INPUT_FILE_PATH = "input/data.csv";
 const CSV_INPUT_FILE_URL = new URL("../" + CSV_INPUT_FILE_PATH, import.meta.url);
 
 async function retrieveCsvData() {
-  console.log("Retrieving database...");
+  console.log("Retrieving database…");
 
   const sheetId = "1xWFQgV3T2NOvfN_I8kvFxWHbH9i240rp2UFi2SEi6Zc";
   const sheetName = "Data";
