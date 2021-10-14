@@ -534,7 +534,8 @@
   key: super_scum_scrubber_weapon
   id: 1965
 
-- name: Bubbles: The Party Crasher Trap
+- name:
+    Bubbles: The Party Crasher Trap
   key: bubbles_party_crasher_weapon
   id: 2049
 
@@ -805,3 +806,7 @@
 - name: Darkest Chocolate Bunny Trap
   key: dark_chocolate_bunny_weapon
   id: 3239
+
+- name: Chrome School of Sharks Trap
+  key: chrome_school_of_sharks_weapon
+  id: 3257
